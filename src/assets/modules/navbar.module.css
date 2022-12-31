@@ -1,0 +1,48 @@
+.whiteNav, 
+.transNav {
+    margin-right: -15px!important;
+    margin-left: -15px!important;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.logo {
+    width: 120px;
+    align-items: middle;
+}
+
+.transNav ul li a{
+    color: white !important;
+    font-family: Sarabun-Bold !important;
+    font-size: 1.25em !important;
+    height: 100% !important;
+}
+
+.transNav ul li:last-of-type a {
+    text-decoration-color: rgb(38,26,78) !important;
+    color: rgb(38,26,78) !important;
+    text-decoration: underline 2px solid !important;
+    text-underline-offset: 0.3rem !important;
+}
+
+.whiteNav ul li a{
+    color:rgb(38,26,78) !important;
+    font-family: Sarabun-Bold !important;
+    font-size: 1.25em !important;
+    height: 100% !important;
+}
+
+.whiteNav ul li:last-of-type a {
+    text-decoration-color: rgb(197,173,61) !important;
+    color: rgb(197,173,61) !important;
+    text-decoration: underline 2px solid !important;
+    text-underline-offset: 0.3rem !important;
+}
+
+@media screen and (max-width: 1200px) {
+    .whiteNav ul li a,
+    .transNav ul li a {
+        font-size: 1.1rem !important;
+    }
+}
+

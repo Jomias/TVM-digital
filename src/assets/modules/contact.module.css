@@ -1,0 +1,134 @@
+.content {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+
+
+/* Get Idea */
+
+.getIdea {
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+
+.getIdea h3,
+.leftSite {
+    color: rgb(38, 26, 78);
+}
+
+.row>h3 {
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: Sarabun-Bold;
+}
+
+.leftSite h3 {
+    margin-bottom: 20px;
+    font-family: Sarabun-Bold;
+    text-decoration: underline 2px solid rgb(38, 26, 78);
+    text-underline-offset: 0.4rem;
+}
+
+.leftSite h3:last-of-type {
+    margin: 20px 0 30px;
+}
+
+.leftSite h3 {
+    margin-bottom: 20px;
+    text-decoration: underline 2px solid rgb(38, 26, 78);
+    text-underline-offset: 0.4rem;
+    font-family: Sarabun-Bold;
+}
+
+.leftSite p {
+    margin: 0 !important;
+    padding: 0 0.25rem 0 0 !important;
+    font-size: 1.4em;
+    font-family: Sarabun-Medium;
+}
+
+.rightSite input,
+.rightSite textarea {
+    width: 100%;
+    padding: 0.75rem 1.5rem;
+    margin: 0.5rem 0;
+    background-color: rgb(230, 230, 230);
+    font-style: italic;
+    border-radius: 5px;
+    outline: none;
+}
+
+.rightSite textarea {
+    border-color: black;
+    border-width: 2px;
+}
+.rightSite button {
+    width: 100%;
+    padding: 0.5rem 0;
+    margin-top: 0.75rem;
+    background-color: rgb(38, 26, 78);
+    border: none !important;
+    outline: none !important;
+    transition: all 1s;
+}
+
+.rightSite button:hover {
+    background-color: rgb(38, 26, 78);
+    letter-spacing: 0.2rem;
+}
+/* End Get Idea */
+
+/* Subscribe */
+.subscribe {
+    margin-top: 100px;
+    background-image: url("../images/subscribe.png");
+    background-position: center;
+    background-size: 100% 100%;
+    height: 300px;
+    color: white;
+    position: relative;
+}
+
+.subscribe h3 {
+    width: 100%;
+    font-family: Sarabun-Bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.subscribe p {
+    margin-top: 0.5rem;
+    display: block;
+    text-align: justify;
+    text-align-last: center;
+    top: 20%;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 0.5rem;
+    font-family: Sarabun-Medium;
+}
+
+.but {
+    margin-top: 0.75rem;
+    width: 100%;
+    margin: auto;
+}
+
+.subscribe button {
+    display: block;
+    margin: auto;
+    text-align: center;
+    outline: none;
+    border: none;
+    color: blue;
+    padding: 0.5rem;
+}
+
+/* End Subscribe */

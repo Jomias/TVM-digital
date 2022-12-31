@@ -1,0 +1,79 @@
+.introduce {
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.picture {
+    overflow: hidden;
+}
+
+.content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.content h1{
+    font-family: Sarabun-ExtraBold;
+    color: rgb(38,26,78);
+}
+
+.details{
+    box-shadow: inset 7px 0px rgb(38,26,78);
+    padding-left: 1.5rem;
+    margin-bottom: 5px;
+}
+
+.content p {
+    text-align: justify;
+    margin-bottom: 0.25rem!important;
+    line-height: 1.2;
+    color: rgb(38,26,78);
+    font-family: Sarabun-SemiBold;
+    font-size: 1.25rem;
+}
+
+.content a {
+    color: white;
+    background-color: rgb(38,26,78);
+    font-family: Sarabun-Bold;
+    padding: 0.5rem 1.25rem;
+    margin-top: 7px;
+    margin-bottom: 15px;
+}
+
+.picture img {
+    padding-left: 4rem;
+    max-width: 100%;
+    min-width: 100%;
+    max-height: 100%;
+    min-height: 100%;
+    width: 100%;
+    transition: all 1s;
+}
+
+.picture:hover img {
+    transform: scale(1.2);
+}
+
+
+@media only screen and (max-width: 992px) {
+    .introduce img {
+        padding-left: 0rem;
+    }
+}
+
+
+.content a {
+    transition: all 1s;   
+}
+
+.content a:hover {
+    color: white;
+    text-transform: uppercase;
+    box-shadow: 0 0 1rem blue;
+    letter-spacing: 0.15rem;
+}

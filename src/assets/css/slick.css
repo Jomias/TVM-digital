@@ -1,0 +1,42 @@
+.slick-dots li button::before{
+    content: none !important;
+}
+
+.slick-dots li {
+    margin: 0.5px;
+}
+
+.slick-dots li button {
+    content: none !important;
+    transition: 0.3s all cubic-bezier(0.32, 0.75, 0.53, 0.53);
+    background: #cccccc;
+    height: 3.6px !important;
+    width: 15px;
+    padding: 0;
+}
+
+.slick-dots .slick-active button{
+    background-color: rgb(38, 26, 78);
+}
+
+.slick-slide > div {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.slick-slider {
+    margin: 60px 10px;
+    border: none;
+}
+
+.slick-dots {
+    position: relative;
+}
+
+.slick-slider img {
+    cursor: pointer;
+}
+
+.slick-arrow {
+    display: none !important;
+}

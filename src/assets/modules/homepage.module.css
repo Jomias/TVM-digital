@@ -1,0 +1,309 @@
+.h2, .h3, .h4, .h6 {
+    font-family: Sarabun-ExtraBold;
+}
+
+.h2, .h3 {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+
+.extendButton {
+    background-color: rgb(1, 60, 140);
+    color: white;
+    font-family: Sarabun-ExtraBold;
+    display: block;
+    width: 200px;
+    margin: auto;
+    padding: 1.25rem;
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.extendButton:hover{
+    color: white;
+}
+
+/* Welcome Paragraph */
+.welcome {
+    color: rgb(1, 60, 140);
+}
+
+.welcome_text h2 {
+    margin-bottom: 20px;
+}
+
+.welcome_text p {
+    margin-bottom: 0;
+    margin: auto;
+    text-align: center;
+    width: 72%;
+    font-family: Sarabun-SemiBold;
+    font-size: 1.1rem;
+}
+/* End Welcome Paragraph */
+
+/* Cooperation */
+.cooperation h2 {
+    margin-bottom: 40px;
+}
+
+.cooperation p {
+    font-family: Sarabun-Bold;
+    line-height: 1.2;
+    font-size: 1.1rem;
+    padding-top: 0.5rem;
+}
+
+.cooperation h2 {
+    margin-bottom: 40px;
+}
+
+.cooperation .col-2 img {
+    width: 80px;
+}
+/* End Cooperation */
+
+
+/* Research */
+.research {
+    color: rgb(1, 60, 140);
+    margin-top: 50px;
+}
+
+.research h2 {
+    margin-bottom: 20px;
+}
+
+.introduce p {
+    margin-bottom: 0;
+    margin: auto;
+    text-align: center;
+    width: 75%;
+    font-family: Sarabun-SemiBold;
+    font-size: 1.1rem;
+}
+
+.introduce a {
+    background-color: rgb(1, 60, 140);
+    color: white;
+    outline: none;
+    font-family: Sarabun-SemiBold;
+    margin-top: 20px;
+    padding-left: 1.25rem;
+    transition: all 1s;
+}
+
+.introduce a:hover {
+    color: white;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+
+.introduce a img{
+    width: 30px;
+}
+
+.layer {
+    font-family: Sarabun-Medium;
+    margin-top: 50px;
+    position: relative;
+}
+
+.layer h3 {
+    font-family: Sarabun-Medium;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.layer h4 {
+    font-family: Sarabun-SemiBold;
+}
+
+.firstLayer h3{
+    color: rgb(130, 130, 130);
+}
+
+.firstLayer {
+    border: 1px solid rgb(170, 170,170);
+    width: 50%;
+    padding: 1.25rem 1rem 2rem 1.75rem;
+}
+
+.firstLayer li{
+    width: 75%;
+    margin-bottom: 10px;
+    font-size: 1.25rem;
+}
+
+.secondLayer {
+    color: white;
+    background-color: rgb(1, 60, 140);
+    width: 50%;
+    padding: 1.25rem 1rem 2rem 1.75rem;
+    margin-top: -210px;
+    margin-left: 36%;
+}
+
+.secondLayer p{
+    width: 70%;
+    padding-left: 1.75rem;
+    padding-top: 0.25rem;
+    font-size: 1.25rem;
+}
+
+.thirdLayer {
+    margin-left: 70%;
+    margin-top: -500px;
+    z-index: 1;
+    position: absolute;
+}
+
+@media (max-width: 992px) {
+    .firstLayer {
+       width: 100%;
+       position: relative;
+    }
+   
+    .firstLayer li{
+       width: 100%;
+    }
+    .secondLayer {
+       width: 100%;
+       margin-top: 30px;
+       margin-left: 0;
+    }
+
+    .secondLayer p{
+       width: 90%;
+    }
+
+    .thirdLayer{
+       display: none;
+    }
+}
+/* End Research */
+
+/* Services */
+.services {
+    color: rgb(1, 60, 140);
+}
+
+.services h2{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.services img {
+    max-height: 70px;
+}
+
+.services p{
+    font-family: Sarabun-Bold;
+    font-size: 1.25rem;
+}
+
+.services h4 {
+    margin-top: 20px;
+}
+
+/*End Services*/
+
+/* Partners */
+.partners {
+    margin-top: 80px;
+}
+
+.partners h2 {
+    margin-bottom: 40px;
+    color: rgb(1, 60, 140); 
+}
+
+.height {
+    height: 100%;
+}
+
+.content {
+    height: 500px;
+    border-radius: 1.25rem;
+    position: relative;
+}
+
+ .partners .partner .partner_1{
+    background-image: linear-gradient(to bottom right, rgb(130,139,255), rgb(33,4,253));
+}
+ .partners .partner .partner_2{
+    background-image: linear-gradient(to bottom right, rgb(150,18,251), rgb(210,1,69));
+}
+ .partners .partner .partner_3{
+    background-image: linear-gradient(to bottom right, rgb(249,234,70), rgb(31,176,119));
+}
+
+.txt {
+    position: absolute;
+    bottom: 2rem;
+    width: 100%;
+    color: white;
+}
+
+.partner img {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+}
+
+.content h6 {
+    margin-bottom: 5px;
+    line-height: 1.2;
+}
+
+.content p {
+    width: 78%;
+    line-height: 1.2;
+    margin-top: 10px;
+    margin: auto;
+}
+
+.content a {
+    margin-top: 25px;
+    background-color: transparent;
+    padding: 0.75rem 2rem;
+    font-family: Sarabun-Medium;
+    color: white;
+    border: 2px solid white;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    display: none;
+}
+
+.content:hover a{
+    display: inline-block;
+    color: white;
+}
+
+/* Partners */
+
+
+/* JoinWithUs */
+.joinWithUs {
+    color: rgb(1, 60, 140);
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.joinWithUs h2{
+    margin-bottom: 15px;
+}
+
+.joinWithUs p {
+    font-family: Sarabun-Bold;
+    width: 70%;
+    margin: auto;
+    font-size: 1.25rem;
+    line-height: 1.2;
+}
+
+.joinWithUs a {
+    margin-top: 30px;
+}
+/* End JoinWithus */

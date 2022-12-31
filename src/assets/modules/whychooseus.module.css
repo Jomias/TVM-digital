@@ -1,0 +1,186 @@
+.section {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    color: rgb(38, 26, 78);
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: Sarabun-ExtraBold;
+}
+
+.h1,
+.h2,
+.h3 {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+
+.h2 {
+    margin-bottom: 40px;
+}
+
+/* Definition and DLT */
+.definition h2 {
+    margin-bottom: 30px;
+}
+
+.definition li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Sarabun-SemiBold;
+    margin: auto;
+    width: 80%;
+    font-size: 1.25rem;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+.define {
+    margin-bottom: 40px;
+}
+
+.definition h3 {
+    margin-bottom: 40px;
+}
+
+.temp {
+    width: 100%;
+}
+
+.DLT {
+    margin-top: 50px;
+}
+
+.DLT img {
+    padding-top: 4rem;
+}
+
+.DLT_item p {
+    font-size: 1.25rem;
+    font-family: Sarabun-Bold;
+    line-height: 1.2;
+    width: 100%;
+}
+/* End Definition and DLT */
+
+/* Reasons */
+.pic img {
+    width: 65px;
+    height: 65px;
+}
+
+.reason h4 {
+    margin-top: 25px;
+}
+
+.reason p {
+    font-family: Sarabun-Bold;
+    margin-top: 10px;
+    line-height: 1.3;
+    font-size: 1.1rem;
+    width: 90%;
+    margin-bottom: 35px;
+}
+/* End Reasons */
+
+/* Benefits */
+.benefitItem  {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.rec  {
+    height: 5px;
+    width: 65px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: rgb(38,26,78);
+    transition: all 1.2s;
+}
+
+.benefitItem:hover .rec {
+    width: 100%;
+}
+
+.benefitPic img {
+    width: 50px;
+}
+
+.benefitItem h5 {
+    font-size: 1.1rem;
+}
+
+.benefitItem p {
+    font-size: 1.1rem;
+    font-family: Sarabun-Bold;
+    margin-bottom: 60px;
+}
+/* End Benefits */
+
+/* Projects  */
+.row {
+    height: 100%;
+}
+
+.projectItem {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    color:white; 
+}
+
+.projectItem {
+    background-position: center;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+
+.content {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    top: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+    overflow: hidden;
+}
+
+.projectItem > img{
+    width: 100%;
+    transition: 0.7s all;
+
+}
+
+.projectItem:hover > img{
+    transform: scale(1.5);
+}
+.content > img {
+    width: 40%;
+}
+
+.content h6{
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    line-height: 1.2;
+}
+
+.content p {
+    width: 78%;
+    margin: auto;
+    text-align: justify;
+    text-align-last: center;
+    line-height: 1.2;
+    margin-top: 5px;
+}
+
+/* End Projects */

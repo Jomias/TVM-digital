@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Sarabun-Bold';
+    src: url(/src/assets/fonts/Sarabun/Sarabun-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Sarabun-Medium';
+    src: url(/src/assets/fonts/Sarabun/Sarabun-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Sarabun-ExtraBold';
+    src: url(/src/assets/fonts/Sarabun/Sarabun-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Sarabun-SemiBold';
+    src: url(/src/assets/fonts/Sarabun/Sarabun-SemiBold.ttf);
+} 
+
+@font-face {
+    font-family: 'Sarabun-BoldItalic';
+    src: url(/src/assets/fonts/Sarabun/Sarabun-BoldItalic.ttf);
+} 
+
+@font-face {
+    font-family: 'Sarabun-MediumItalic';
+    src: url(/src/assets/fonts/Sarabun/Sarabun-MediumItalic.ttf);
+} 
+
+.error {
+    color: red;
+    font-size: 1rem;
+}
+  
+.inputError {
+    border-radius: 5px;
+    border-color: red !important;
+}
+
+input:focus { 
+    border-color:blue !important;
+    border-radius: 5px;
+    outline: none;
+}
+
+textarea:focus { 
+    border-color:blue !important;
+    border-radius: 5px;
+    border-width: 2px;
+    outline: none;
+}

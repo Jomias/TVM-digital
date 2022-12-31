@@ -1,0 +1,207 @@
+/* Recent Projects */
+.recents {
+    color: rgb(38,26,78);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.recentPic{
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.recentPic img{
+    width: 100%;  
+    transition: all 0.7s;  
+}
+
+.recentPic img:hover{
+    transform: scale(1.5); 
+}
+
+.recents h2 {
+    margin: auto;
+    text-align: center;
+    font-family: Sarabun-ExtraBold;
+    margin-bottom: 40px;
+}
+
+.recents span:first-of-type {
+    font-family: Sarabun-Medium;
+    color: rgb(142,131,186);
+}
+
+.recents p {
+    margin: auto;
+    margin-top: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.4rem;
+    font-family: Sarabun-Bold;
+    line-height: 1.3;
+}
+
+.recentItem a {
+    font-family: Sarabun-SemiBold;
+    font-size: 1.25rem;
+    color: rgb(0,162,255);
+}
+
+.recentItem a:last-child {
+    font-family: Sarabun-SemiBold;
+    font-size: 1.25rem;
+    margin: auto;
+}
+
+.recentItem a:hover {
+    text-decoration: none;
+}
+
+.recentItem span:last-of-type {
+    padding-bottom: 2px;
+    border-bottom: 2px solid rgb(0,162,255);
+}
+
+.load {
+    color: white;
+    background-color: rgb(38,26,78);
+    font-family: Sarabun-SemiBold;
+    font-size: 1.25rem;
+    padding: 1rem 2rem;
+    margin-top: 10px;
+    transition: all 0.5s;
+}
+
+.load:hover {
+    color: white;
+    letter-spacing: 0.25rem;
+    box-shadow: 0 0 1rem blue;
+    font-size: 1.3rem;
+}
+
+/* End Recent Projects */
+
+/* Proprietary */
+
+
+/* End Proprietary  */
+
+.proprietary {
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.proprietary h2{
+    margin: auto;
+    text-align: center;
+    font-family: Sarabun-ExtraBold;
+    margin-bottom: 35px;
+    color: rgb(38,26,78);
+    margin-bottom: 50px;
+}
+
+.pic {
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s all ease;
+    background-color: rgb(120, 120, 120);
+}
+
+.pic:hover .overlay {
+    opacity: 0.8;
+}
+
+.text{
+    position: absolute;
+    bottom: -5px;
+    left: 8%;
+    color: white;
+}
+
+.pic span{
+    font-family: Sarabun-Medium;
+    color: white;
+    font-size: 1.15rem;
+}
+
+.pic p {
+    font-family: Sarabun-Bold;
+    font-size: 1.5rem;
+}
+
+.pic p a{
+    color: white;
+    text-decoration: none;
+}
+
+.pic p a img{
+    padding-bottom: 3px;
+    width: 40px;
+    height: 40px;
+}
+
+.pic + p {
+    text-align: center;
+    font-family: Sarabun-Medium;
+    margin: auto;
+    color: rgb(38,26,78);
+    font-size: 1.2rem;
+}
+
+/* Get Idea */
+
+.getIdea {
+    margin: 40px 0 30px;
+}
+
+.getIdea h3 {
+    font-family: Sarabun-Bold;
+    margin: auto;
+    text-align: center;
+    color: rgb(38,26,78);
+    margin-bottom: 30px;
+}
+
+.row input,
+.getIdea textarea {
+    width: 100%;
+    padding: 0.75rem 1.5rem;
+    margin: 0.5rem 0;
+    background-color: rgb(230,230,230);
+    outline: none!important;
+    border: none!important;
+    font-style: italic;
+}
+
+.getIdea button{
+    width: 100%;
+    padding: 0.5rem 0;
+    margin-top: 0.75rem;
+    background-color: rgb(38,26,78);
+    border: none!important;
+    outline: none!important;
+    transition: 1s all;
+}
+
+.getIdea button:hover {
+    background-color: rgb(38, 26, 78);
+    letter-spacing: 0.1rem;
+}
+
+.formCheck{
+    border: none!important;
+    outline: none!important;
+    color: rgb(38,26,78);
+    font-family: Sarabun-Medium;
+}
+
+/* End Get Idea */

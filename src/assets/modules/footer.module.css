@@ -1,0 +1,40 @@
+.footer {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: Sarabun-Medium;
+    font-size: 1.15rem;
+}
+
+
+.footer div:first-child {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    padding-bottom: 3px;
+}
+
+.footer span {
+    font-size: 1.25rem;
+    color: rgb(38, 26, 78) !important;
+    vertical-align: middle;
+    font-family: Sarabun-SemiBold;
+}
+
+.footer li a {
+    color: rgb(38, 26, 78) !important;
+}
+
+.logo {
+    width: 90px;
+    align-items: middle;
+}
+
+@media screen and (max-width: 1200px) {
+    .footer li a {
+        font-size: 1rem;
+    }
+}

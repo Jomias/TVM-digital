@@ -1,0 +1,485 @@
+{
+    "services": [
+        {
+            "id": 0,
+            "imgURL": "https://i.ibb.co/315msqn/ourservices-1.png",
+            "name": "Software Development",
+            "paragraph": "Blockchain & DLT Applications Mobile & Web Appliocations Solution Architecture Agile Delivery Management"
+        },
+        {
+            "id": 1,
+            "imgURL": "https://i.ibb.co/grBpqQz/ourservices-2.png",
+            "name": "Product Innovation",
+            "paragraph": "Product Ownership & Management Product Discovery & Research Micro & Macro Analysis Data Driven UX Design"
+        },
+        {
+            "id": 2,
+            "imgURL": "https://i.ibb.co/2SWLGmp/ourservices-3.png",
+            "name": "Enterprise Consulting",
+            "paragraph": "Digital Transformation Blockchain Strategy Prototyping & Proof of Concepts Technology & Product Roadmaps"
+        },
+        {
+            "id": 3,
+            "imgURL": "https://i.ibb.co/PjsP0KQ/ourservices-4.png",
+            "name": "Infrastructure and Security",
+            "paragraph": "Turnkey Cloud Infrastructure DevOps as Service Scalability, Reliability, Security"
+        },
+        {
+            "id": 4,
+            "imgURL": "https://i.ibb.co/1QXMF8s/ourservices-5.png",
+            "name": "Economics",
+            "paragraph": "Game Theory & Incentive Design Network Effect Design Economic Modelling"
+        },
+        {
+            "id": 5,
+            "imgURL": "https://i.ibb.co/kHRcxN1/ourservices-6.png",
+            "name": "Blockchain System",
+            "paragraph": "Trustless System Design Defining & Tokenising Value Public & Private Smart Contracts"
+        }
+    ],
+    "partners": [
+        {
+            "id": 0,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 1,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 2,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 3,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 4,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 5,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 6,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 7,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 8,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 9,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 10,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 11,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 12,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ],
+    "industries": [
+        {
+            "id": 0,
+            "name": "Consumer electronics",
+            "className": "consumerElectronics",
+            "imgURL": "https://i.ibb.co/NZFfz1V/consumer-electronics.png",
+            "alt": "Consumer Electronics",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 1,
+            "name": "Fintech",
+            "className": "Fintech",
+            "imgURL": "https://i.ibb.co/S3GFhYN/fintech.png",
+            "alt": "Fintech",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 2,
+            "name": "Healthcare",
+            "className": "Healthcare",
+            "imgURL": "https://i.ibb.co/HtDvdxX/healthcare.png",
+            "alt": "Healthcare",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 3,
+            "name": "Insurance",
+            "className": "Insurance",
+            "imgURL": "https://i.ibb.co/v44WTsC/insurance.png",
+            "alt": "Insurance",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 4,
+            "name": "Logistics",
+            "className": "Logistics",
+            "imgURL": "https://i.ibb.co/HCt445S/logistics.png",
+            "alt": "Logistics",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 5,
+            "name": "Manufacturing",
+            "className": "Manufacturing",
+            "imgURL": "https://i.ibb.co/HYFqyft/manufacturing.png",
+            "alt": "Manufacturing",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 6,
+            "name": "Travel",
+            "className": "Travel",
+            "imgURL": "https://i.ibb.co/XkZjG98/travel.png",
+            "alt": "Travel",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 7,
+            "name": "Startup",
+            "className": "Startup",
+            "imgURL": "https://i.ibb.co/ZxDZhry/startup.png",
+            "alt": "Startup",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        }
+    ],
+    "leaders": [
+        {
+            "id": 0,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 1,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 2,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 3,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 4,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 5,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 6,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 7,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        }
+    ],
+    "reasons": [
+        {
+            "id": 0,
+            "name": "Process Ineffiency",
+            "imgURL": "https://i.ibb.co/5xQQ1PY/process-inefficiency.png",
+            "paragraph": "Slow and expensive reconciliation processes. Manual operation of interbusiness relationships. Redudant processes across supplies, customers, peers."
+        },
+        {
+            "id": 1,
+            "name": "Lack of Look-Though",
+            "imgURL": "https://i.ibb.co/R9wQ4my/look-though.png",
+            "paragraph": "Limited transparency both up and down my supply chain prevening data driven insights. Difficulty in tracking procurement, diliveries and            inventory."
+        },
+        {
+            "id": 2,
+            "name": "Competitive Relevance",
+            "imgURL": "https://i.ibb.co/k8VTLpm/competitive-relevance.png",
+            "paragraph": "Provide a guide as to what is appropriate under stated conditions of competitive position and nature of the market being operated in"
+        }
+    ],
+    "benefits": [
+        {
+            "id": 0,
+            "name": "COST EFFICIENCY",
+            "imgURL": "https://i.ibb.co/0m7tsg4/cost-efficiency.png",
+            "paragraph": "Outsourching enables companies to reduce their costs on resource management, overhead cost, labor, working space, etc."
+        },
+        {
+            "id": 1,
+            "name": "RISK REDUCTION",
+            "imgURL": "https://i.ibb.co/z4QMVgw/risk-reduction.png",
+            "paragraph": "Outsourching is a way of risk sharing. By outsourcing your software development taks, you are minimizing the risk."
+        },
+        {
+            "id": 2,
+            "name": "SOCUS ON CORE BUSINESS",
+            "imgURL": "https://i.ibb.co/XknL8c8/socus.png",
+            "paragraph": "Outsourching enable customers to divert their attention from supplementary tasks to focusing on their core functions."
+        },
+        {
+            "id": 3,
+            "name": "REDUCE TIME MARKET",
+            "imgURL": "https://i.ibb.co/k4xfTVR/reduce-time.png",
+            "paragraph": "The huge pool of IT workforce aned infrastructure that the offshore IT."
+        },
+        {
+            "id": 4,
+            "name": "STAFFLING FLEXIBILITY",
+            "imgURL": "https://i.ibb.co/F5PqWHC/staffing-flexibility.png",
+            "paragraph": "Outsourching will allow operations that have seasonal or cyclical demands to bring."
+        },
+        {
+            "id": 5,
+            "name": "DIVERSE TECHNOLOGIES",
+            "imgURL": "https://i.ibb.co/hLFwJCX/diverse-technologies.png",
+            "paragraph": "Out sourching vendors have focus on particular have services and play in volume."
+        }
+    ],
+    "projects": [
+        {
+            "id": 0,
+            "name": "ABCXYZ",
+            "imgURL": "https://i.ibb.co/D7pYJ21/project-1.png",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 1,
+            "name": "ABCXYZ",
+            "imgURL": "https://i.ibb.co/1nGKfpw/project-2.png",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 2,
+            "name": "ABCXYZ",
+            "imgURL": "https://i.ibb.co/mJkTwxD/project-3.png",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ],
+    "recents": [
+        {
+            "id": 0,
+            "name": "recent-1",
+            "imgURL": "https://i.ibb.co/GChfck9/recents-1.png",
+            "des": "Blockchain. Supply Chain. Drug Supply",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 1,
+            "name": "recent-2",
+            "imgURL": "https://i.ibb.co/521ZJ87/recents-2.png",
+            "des": "Tracking. Solution. Enterprise",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 2,
+            "name": "recent-3",
+            "imgURL": "https://i.ibb.co/MgbtChS/recents-3.png",
+            "des": "Robot. Machine. IoT/Firmware. AI",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 3,
+            "name": "recent-4",
+            "imgURL": "https://i.ibb.co/tqxQbPd/recents-4.png",
+            "des": "Blockchain. Supply Chain. Drug Supply",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 4,
+            "name": "recent-5",
+            "imgURL": "https://i.ibb.co/47hR4Mh/recents-5.png",
+            "des": "Tracking. Solution. Enterprise",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 5,
+            "name": "recent-6",
+            "imgURL": "https://i.ibb.co/7zJB6Q1/recents-6.png",
+            "des": "Robot. Machine. IoT/Firmware. AI",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 6,
+            "name": "recent-7",
+            "imgURL": "https://i.ibb.co/GChfck9/recents-1.png",
+            "des": "Blockchain. Supply Chain. Drug Supply",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 7,
+            "name": "recent-8",
+            "imgURL": "https://i.ibb.co/521ZJ87/recents-2.png",
+            "des": "Tracking. Solution. Enterprise",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 8,
+            "name": "recent-9",
+            "imgURL": "https://i.ibb.co/MgbtChS/recents-3.png",
+            "des": "Robot. Machine. IoT/Firmware. AI",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 9,
+            "name": "recent-10",
+            "imgURL": "https://i.ibb.co/tqxQbPd/recents-4.png",
+            "des": "Blockchain. Supply Chain. Drug Supply",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 10,
+            "name": "recent-11",
+            "imgURL": "https://i.ibb.co/47hR4Mh/recents-5.png",
+            "des": "Tracking. Solution. Enterprise",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 11,
+            "name": "recent-12",
+            "imgURL": "https://i.ibb.co/7zJB6Q1/recents-6.png",
+            "des": "Robot. Machine. IoT/Firmware. AI",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        }
+    ],
+    "proprietarys": [
+        {
+            "id": 0,
+            "name": "proprietarys-1",
+            "imgURL": "https://i.ibb.co/BTJd7Cf/proprietary-1.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 1,
+            "name": "proprietarys-2",
+            "imgURL": "https://i.ibb.co/swNSTxm/proprietary-2.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 2,
+            "name": "proprietarys-3",
+            "imgURL": "https://i.ibb.co/3RS69QC/proprietary-3.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 3,
+            "name": "proprietarys-4",
+            "imgURL": "https://i.ibb.co/r5YZZGk/proprietary-4.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 4,
+            "name": "proprietarys-5",
+            "imgURL": "https://i.ibb.co/t227RLk/proprietary-5.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 5,
+            "name": "proprietarys-6",
+            "imgURL": "https://i.ibb.co/zftw7n9/proprietary-6.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 6,
+            "name": "proprietarys-7",
+            "imgURL": "https://i.ibb.co/BGgpmKR/proprietary-7.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 7,
+            "name": "proprietarys-8",
+            "imgURL": "https://i.ibb.co/dWvngj6/proprietary-8.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        }
+    ],
+    "slideShows": [
+        {
+            "id": 0,
+            "name": "slide-1",
+            "imgURL": "https://i.ibb.co/5xtfXzG/slide-1.png"
+        },
+        {
+            "id": 1,
+            "name": "slide-2",
+            "imgURL": "https://i.ibb.co/PNjMBCb/slide-2.png"
+        },
+        {
+            "id": 2,
+            "name": "slide-3",
+            "imgURL": "https://i.ibb.co/WKcH8Q5/slide-3.png"
+        },
+        {
+            "id": 3,
+            "name": "slide-4",
+            "imgURL": "https://i.ibb.co/5xtfXzG/slide-1.png"
+        },
+        {
+            "id": 4,
+            "name": "slide-5",
+            "imgURL": "https://i.ibb.co/PNjMBCb/slide-2.png"
+        },
+        {
+            "id": 5,
+            "name": "slide-6",
+            "imgURL": "https://i.ibb.co/WKcH8Q5/slide-3.png"
+        },
+        {
+            "id": 6,
+            "name": "slide-7",
+            "imgURL": "https://i.ibb.co/5xtfXzG/slide-1.png"
+        },
+        {
+            "id": 7,
+            "name": "slide-8",
+            "imgURL": "https://i.ibb.co/PNjMBCb/slide-2.png"
+        },
+        {
+            "id": 8,
+            "name": "slide-9",
+            "imgURL": "https://i.ibb.co/WKcH8Q5/slide-3.png"
+        }
+    ],
+    "tutorials": []
+}

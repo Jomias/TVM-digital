@@ -1,0 +1,111 @@
+.topReasons {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.pic img {
+    width: 100px;
+    height: 100px;
+}
+
+.reason p {
+    color: rgb(38,26,78);
+    font-family: Sarabun-SemiBold;
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 1rem;
+}
+
+
+.leaderTeam {
+    color: rgb(38,26,78);
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.userBox img  {
+    width: 100px;
+    height: 100px;
+}
+
+.leaderTeam h2 {
+    font-family: Sarabun-ExtraBold;
+}
+
+.leaderTeam h2 + h4 {
+    font-family: Sarabun-Bold;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: justify;
+    text-align-last: center;
+}
+
+.cardBody h4 {
+    margin-top: 10px;
+    font-family: Sarabun-ExtraBold;
+}
+
+.leaderTeam h6 {
+    font-family: Sarabun-Medium;
+    width: 70%;
+    margin: auto;
+
+}
+
+.leaderTeam p {
+    font-family: Sarabun-SemiBold;
+    margin-top: 12px;
+    margin-bottom: 0!important;
+}
+
+.leaderTeam a img {
+    margin: 4px;
+    height: 35px;
+    width: 35px;
+}
+
+
+.ourPartners {
+    background-image: url("../images/our-partners.png");
+    height: 500px;
+    background-position: center;
+    background-size: 100% 100%;
+    position: relative;
+    min-width: 100px;
+    color:white;
+    margin-top: 40px;
+}
+
+.content {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    top: 10%;
+}
+
+.content h2{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Sarabun-Bold;
+}
+
+.content p{
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+    text-align-last: center;
+    margin-bottom: 10px;
+    font-size: 1.25rem;
+    font-family: Sarabun-SemiBold;
+}
+
+@media screen and (max-width: 900px) {
+    .content p {
+        width: 90%;
+    }
+}

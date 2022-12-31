@@ -1,0 +1,268 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "imgURL": "https://i.ibb.co/315msqn/ourservices-1.png",
+            "name": "Software Development",
+            "paragraph": "Blockchain & DLT Applications Mobile & Web Appliocations Solution Architecture Agile Delivery Management"
+        },
+        {
+            "id": 2,
+            "imgURL": "https://i.ibb.co/grBpqQz/ourservices-2.png",
+            "name": "Product Innovation",
+            "paragraph": "Product Ownership & Management Product Discovery & Research Micro & Macro Analysis Data Driven UX Design"
+        },
+        {
+            "id": 3,
+            "imgURL": "https://i.ibb.co/2SWLGmp/ourservices-3.png",
+            "name": "Enterprise Consulting",
+            "paragraph": "Digital Transformation Blockchain Strategy Prototyping & Proof of Concepts Technology & Product Roadmaps"
+        }
+    ],
+    "slideshow": [
+        {
+            "id": 1,
+            "imgURL": "https://i.ibb.co/5xtfXzG/slide-1.png"
+        },
+        {
+            "id": 2,
+            "imgURL": "https://i.ibb.co/PNjMBCb/slide-2.png"
+        },
+        {
+            "id": 3,
+            "imgURL": "https://i.ibb.co/WKcH8Q5/slide-3.png"
+        },
+        {
+            "id": 4,
+            "imgURL": "https://i.ibb.co/5xtfXzG/slide-1.png"
+        },
+        {
+            "id": 5,
+            "imgURL": "https://i.ibb.co/PNjMBCb/slide-2.png"
+        },
+        {
+            "id": 6,
+            "imgURL": "https://i.ibb.co/WKcH8Q5/slide-3.png"
+        }
+    ],
+    "partners": [
+        {
+            "id": 1,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 2,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 3,
+            "name": "ABCXYZ",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ],
+    "introduce": [
+        {
+            "id": 1,
+            "page": "industries",
+            "title": "INDUSTRIES",
+            "paragraph": "Unlock the new value, build trust and bring transparency across industries and businesses with the power of Blockchain.",
+            "imgURL": "https://i.ibb.co/YXFFPY7/industries.png"
+        },
+        {
+            "id": 2,
+            "page": "works",
+            "title": "OUR TEAM",
+            "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dolor voluptatem nam incidunt earum nesciunt facere quis quia?",
+            "imgURL": "https://i.ibb.co/DVwKgcV/our-work.png"
+        }
+    ],
+    "industries": [
+        {
+            "id": 1,
+            "name": "Consumer electronics",
+            "className": "consumerElectronics",
+            "imgURL": "https://i.ibb.co/NZFfz1V/consumer-electronics.png",
+            "alt": "Consumer Electronics",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 2,
+            "name": "Fintech",
+            "className": "Fintech",
+            "imgURL": "https://i.ibb.co/S3GFhYN/fintech.png",
+            "alt": "Fintech",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        },
+        {
+            "id": 3,
+            "name": "Healthcare",
+            "className": "Healthcare",
+            "imgURL": "https://i.ibb.co/HtDvdxX/healthcare.png",
+            "alt": "Healthcare",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adpiscing elit, sed do eius tempor incididunt ut labore et dolore magna aliqua. Nisl tincidunt eget nullam non. Quis hendrerit dolor magna eget."
+        }
+    ],
+    "topReasons": [
+        {
+            "id": 1,
+            "paragraph": "TVM Blockchain is accelerating the development of decentrallssed applications. We build and grow blockchain companies leveraging our network, expertise access to capital.",
+            "imgURL": "https://i.ibb.co/n8MS6YM/reasons-icon-1.png"
+        },
+        {
+            "id": 2,
+            "paragraph": "TVM Blockchain is accelerating the development of decentrallssed applications. We build and grow blockchain companies leveraging our network, expertise access to capital.",
+            "imgURL": "https://i.ibb.co/K9jK9Sy/reasons-icon-2.png"
+        },
+        {
+            "id": 3,
+            "paragraph": "TVM Blockchain is accelerating the development of decentrallssed applications. We build and grow blockchain companies leveraging our network, expertise access to capital.",
+            "imgURL": "https://i.ibb.co/C19qsn9/reasons-icon-3.png"
+        }
+    ],
+    "leaders": [
+        {
+            "id": 1,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 2,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        },
+        {
+            "id": 3,
+            "name": "Alan Burt",
+            "position": "Co-Founder and Chairperson",
+            "imgURL": "https://i.ibb.co/V2SXPB8/profile.png"
+        }
+    ],
+    "reasons": [
+        {
+            "id": 1,
+            "name": "Process Ineffiency",
+            "imgURL": "https://i.ibb.co/5xQQ1PY/process-inefficiency.png",
+            "paragraph": "Slow and expensive reconciliation processes. Manual operation of interbusiness relationships. Redudant processes across supplies, customers, peers."
+        },
+        {
+            "id": 2,
+            "name": "Lack of Look-Though",
+            "imgURL": "https://i.ibb.co/R9wQ4my/look-though.png",
+            "paragraph": "Limited transparency both up and down my supply chain prevening data driven insights. Difficulty in tracking procurement, diliveries and            inventory."
+        },
+        {
+            "id": 3,
+            "name": "Competitive Relevance",
+            "imgURL": "https://i.ibb.co/k8VTLpm/competitive-relevance.png",
+            "paragraph": "Provide a guide as to what is appropriate under stated conditions of competitive position and nature of the market being operated in"
+        }
+    ],
+    "benefits": [
+        {
+            "id": 1,
+            "name": "COST EFFICIENCY",
+            "imgURL": "https://i.ibb.co/0m7tsg4/cost-efficiency.png",
+            "paragraph": "Outsourching enables companies to reduce their costs on resource management, overhead cost, labor, working space, etc."
+        },
+        {
+            "id": 2,
+            "name": "RISK REDUCTION",
+            "imgURL": "https://i.ibb.co/z4QMVgw/risk-reduction.png",
+            "paragraph": "Outsourching is a way of risk sharing. By outsourcing your software development taks, you are minimizing the risk."
+        },
+        {
+            "id": 3,
+            "name": "SOCUS ON CORE BUSINESS",
+            "imgURL": "https://i.ibb.co/XknL8c8/socus.png",
+            "paragraph": "Outsourching enable customers to divert their attention from supplementary tasks to focusing on their core functions."
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "name": "ABCXYZ",
+            "imgURL": "https://i.ibb.co/D7pYJ21/project-1.png",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 2,
+            "name": "ABCXYZ",
+            "imgURL": "https://i.ibb.co/1nGKfpw/project-2.png",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id": 3,
+            "name": "ABCXYZ",
+            "imgURL": "https://i.ibb.co/mJkTwxD/project-3.png",
+            "paragraph": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ],
+    "recents": [
+        {
+            "id": 1,
+            "imgURL": "https://i.ibb.co/GChfck9/recents-1.png",
+            "des": "Blockchain. Supply Chain. Drug Supply",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 2,
+            "imgURL": "https://i.ibb.co/521ZJ87/recents-2.png",
+            "des": "Tracking. Solution. Enterprise",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        },
+        {
+            "id": 3,
+            "imgURL": "https://i.ibb.co/MgbtChS/recents-3.png",
+            "des": "Robot. Machine. IoT/Firmware. AI",
+            "paragraph": "Blockchain based Pharma Supply Chain Solution for International Aid Distribution"
+        }
+    ],
+    "proprietarys": [
+        {
+            "id": 1,
+            "imgURL": "https://i.ibb.co/BTJd7Cf/proprietary-1.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 2,
+            "imgURL": "https://i.ibb.co/swNSTxm/proprietary-2.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 3,
+            "imgURL": "https://i.ibb.co/3RS69QC/proprietary-3.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        },
+        {
+            "id": 4,
+            "imgURL": "https://i.ibb.co/r5YZZGk/proprietary-4.png",
+            "paragraph": "Lorem ipsum dolor sit amet, sectetur, piscing elit, sed do eiusmod tempor incididunt ut."
+        }
+    ],
+    "slideShows": [
+        {
+            "id": 0,
+            "imgURL": "https://i.ibb.co/5xtfXzG/slide-1.png"
+        },
+        {
+            "id": 1,
+            "imgURL": "https://i.ibb.co/PNjMBCb/slide-2.png"
+        },
+        {
+            "id": 2,
+            "imgURL": "https://i.ibb.co/WKcH8Q5/slide-3.png"
+        },
+        {
+            "id": 3,
+            "imgURL": "https://i.ibb.co/5xtfXzG/slide-1.png"
+        },
+        {
+            "id": 4,
+            "imgURL": "https://i.ibb.co/PNjMBCb/slide-2.png"
+        }
+    ]
+}
